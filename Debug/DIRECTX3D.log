@@ -1,0 +1,19 @@
+﻿Build started 15/04/2015 18:26:33.
+     1>Project "C:\Users\Richard\Desktop\DIRECTX3D\DIRECTX3D.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt soundclass.cpp
+         soundclass.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Richard\Desktop\DIRECTX3D\Debug\DIRECTX3D.exe" /INCREMENTAL /NOLOGO d3d11.lib d3dcompiler.lib dinput8.lib dxguid.lib d3dx11d.lib d3dx9d.lib dxerr.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Richard\Desktop\DIRECTX3D\Debug\DIRECTX3D.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Richard\Desktop\DIRECTX3D\Debug\DIRECTX3D.lib" /MACHINE:X86 Debug\cameraclass.obj
+         Debug\d3dclass.obj
+         Debug\graphicsclass.obj
+         Debug\inputclass.obj
+         Debug\main.obj
+         Debug\soundclass.obj
+         Debug\systemclass.obj
+         DIRECTX3D.vcxproj -> C:\Users\Richard\Desktop\DIRECTX3D\Debug\DIRECTX3D.exe
+     1>Done Building Project "C:\Users\Richard\Desktop\DIRECTX3D\DIRECTX3D.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.41
